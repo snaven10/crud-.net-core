@@ -10,6 +10,7 @@
 Arriba solo seleccionan .NET Core Launch (web) (api) algo asi aparece y le dan al boton verde ala izquierda.
 + Desde la power shell o una terminal en linux simplemente escribes dotnet run.
 
+#### En todo caso recomiendo ejecutar el proyecto desde la power Shell o la CMD o desde cualquier terminal Linux con el comando  ```dotnet run``` teniendo previamente instalado [dotnet](https://dotnet.microsoft.com/download) Para no tener ningún inconveniente.
 ## Para poder probar el crud en general ya que se iso en formato de api rest se puede utilizar la erramienta Postman o la de tu preferencia.
 
 ### Las distintas ruta y formas de mandara las peticiones son la siguientes.
